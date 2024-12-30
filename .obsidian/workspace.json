@@ -1,0 +1,199 @@
+{
+  "main": {
+    "id": "0baf0ecfeccc2369",
+    "type": "split",
+    "children": [
+      {
+        "id": "a0cb7d122a8388e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6685c94a654b6402",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted image 20241213104934.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20241213104934"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "655e35e699884ab1",
+    "type": "split",
+    "children": [
+      {
+        "id": "53bcc176a472aac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3fab64a59d5b6ec7",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "be31eab27e69dfad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "7b4d6ea6fdc7bc8b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d2c47c3f4c9ba27",
+    "type": "split",
+    "children": [
+      {
+        "id": "ec2d769029f89387",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08a8fd14c7fff5e2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 - Заметки/ТПИС/графическая  нотация UML.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for графическая  нотация UML"
+            }
+          },
+          {
+            "id": "39a8383b3b91c82d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 - Заметки/ТПИС/графическая  нотация UML.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from графическая  нотация UML"
+            }
+          },
+          {
+            "id": "18f16728c21869ab",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c4bf7de77053ea9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 - Заметки/ТПИС/графическая  нотация UML.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of графическая  нотация UML"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "6685c94a654b6402",
+  "lastOpenFiles": [
+    "3 - Заметки/Теория вероятностей/Методы получения оценки параметров распределения.md",
+    "3 - Заметки/Теория вероятностей/математическая статистика.md",
+    "3 - Заметки/практика/Практика консультация.md",
+    "3 - Заметки/ТПИС/RAD-технология.md",
+    "3 - Заметки/ТПИС/Методология SADT.md",
+    "3 - Заметки/ТПИС/Оценка ИС.md",
+    "3 - Заметки/ТПИС/Функциональные компоненты ИС.md",
+    "3 - Заметки/ТПИС/графическая  нотация UML.md",
+    "3 - Заметки/Теория вероятностей/неравенство чебышева.md",
+    "3 - Заметки/Дискретная математика/Теория графов.md",
+    "2 - Шаблоны/Стандартная заметка.md",
+    "3 - Заметки/Теория вероятностей/Разбор кт2.md",
+    "Pasted image 20241213105035.png",
+    "Pasted image 20241213104934.png",
+    "3 - Заметки/Теория вероятностей/неравенство Маркова.md",
+    "3 - Заметки/Теория вероятностей/Условные ожидания. Регрессия.md",
+    "3 - Заметки/Теория вероятностей",
+    "3 - Заметки/ТЕСТ.md",
+    "3 - Заметки/практика",
+    "3 - Заметки/Дискретная математика",
+    "1 - Теги/UML.md",
+    "1 - Теги/ТПИС.md",
+    "2 - Шаблоны/Untitled.canvas",
+    "3 - Заметки/ТПИС/Untitled.canvas",
+    "3 - Заметки/ТПИС",
+    "2 - Шаблоны/Стандартный шаблон.md",
+    "Untitled.md",
+    "2 - Шаблоны",
+    "4 - Контент",
+    "3 - Заметки",
+    "1 - Теги",
+    "Welcome.md"
+  ]
+}
