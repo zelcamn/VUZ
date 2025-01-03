@@ -1,4 +1,7 @@
 {
   "cssTheme": "Material Gruvbox",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "zelcamn-images"
+  ]
 }
